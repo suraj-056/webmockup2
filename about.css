@@ -1,0 +1,114 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav a{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    color: 69F0AE;
+    float: right;
+    margin: 3% 3%;
+    border-bottom: 2px solid transparent;
+    border-bottom-width: 0%;
+}
+.nav a:hover{
+    border-bottom: 2px solid gray;
+    border-bottom-width: 100%;
+}
+.heading{
+
+    width: 10%;
+    height: max-content;
+    left: 65%;
+    top: 30%;
+    color: honeydew;
+    line-height: 4rem;
+    position: relative;
+}
+.heading h1{
+    font-family: 'Bangers', cursive;
+}
+
+.heading span{
+    font-size: 2.5rem;
+    color: #69F0AE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.top{
+    text-align: center;
+    height: 100%;
+
+}
+.top h1{
+    color: black;
+}
+.top img{
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    animation: anime 2s linear forwards;
+}
+@keyframes anime {
+    100%{
+        transform: rotatey(360deg);
+    }
+    
+}
+.design{
+    width: 50%;
+    height: 6%;
+    position: relative;
+    top: 30%;
+    left: 35%;
+    align-content: center;
+    background-color: cyan;
+}
+.design h2{
+    margin-left: 50%;
+    font-family: 'Bangers', cursive;
+}
+.middle{
+    height: 80%;
+    background-color: black;
+}
+.middle img{
+    position: absolute;
+    left: 60%;
+    width: 20%;
+    height: 40%;
+}
+.middle h1{
+    font-family: 'Bangers', cursive;
+    position: relative;
+    top: 20%;
+    color: #69F0AE;
+    left: 15%;
+    font-size: 3rem;
+}
+.design1{
+    position: relative;
+    top: 25%;
+    height: 7%;
+    left: 10%;
+    width: 80%;
+    background-color: aqua;
+}
+.design1 p{
+    color: black;
+    
+}
+.middle .design1  p{
+    color: black;
+    font-family: 'Bangers', cursive;
+}
+.middle p{
+    position: relative;
+    margin-right: 50%;
+    color: honeydew;
+    top: 35%;
+    left: 10% ;
+}
