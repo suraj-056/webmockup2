@@ -20,7 +20,8 @@ this is a complete three page website all three pages are different from each ot
 ![Screenshot (61)](https://user-images.githubusercontent.com/77103955/130103258-9048ee5f-ce70-4eef-a74e-864d1b80624a.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/77103955/130103239-fcdcf3d8-a9bf-4f39-98ab-5622b049a84a.png)
 
-2. ![Screenshot (62)](https://user-images.githubusercontent.com/77103955/130103438-4e857d96-f2f8-44d6-a654-33069aef5d31.png)
+2. 
+![Screenshot (62)](https://user-images.githubusercontent.com/77103955/130103438-4e857d96-f2f8-44d6-a654-33069aef5d31.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/77103955/130103449-599691e4-1967-4134-b27a-3c30c54ea995.png)
 
 
