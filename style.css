@@ -14,13 +14,9 @@
     animation: spin2 30s linear infinite;
 }   
 @keyframes spin2 {
-
     100%{
         background-position: 100%;
-
     }
-
-    
 }
 .main{
     position: absolute;
@@ -56,10 +52,8 @@
     100%{
         left: 350%;
         transform: rotate(360deg);
-    }
-    
+    }    
 }
-
 .intouch{
     width: 100%;
     height: 100%;
@@ -74,8 +68,7 @@
 @keyframes kitty {
     100%{
         transform: rotate(10deg);
-    }
-    
+    }   
 }
 .text{
     width: 50%;
@@ -94,7 +87,6 @@
     text-align: left;
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
-
 }
 .btn{
     font-family: 'Montserrat', sans-serif;
@@ -140,7 +132,6 @@ h6{
     100%{
         transform: rotate(360deg);
     }
-    
 }
 @media (max-width:500px) {
     body{
@@ -180,7 +171,6 @@ h6{
         width: 84%;
     }
     .btn{
-
         text-align: center;
         margin: 5% 43%;
     }
@@ -213,5 +203,4 @@ h6{
     ul li{
         display: none;
     }
-
 }
